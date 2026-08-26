@@ -1,0 +1,6 @@
+{
+  "name": "StudyFlow",
+  "description": "Autonomous Academic Operations Agent for college students featuring adaptive study planning, risk intelligence, syllabus analysis, and autonomous rescheduling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
